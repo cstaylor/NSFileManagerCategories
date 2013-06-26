@@ -14,6 +14,7 @@ so I thought I'd wrap them up and stick them in a category for the NSFileManager
 I may add some additional helper methods for other file functions in the future, so you may want to watch this project.
 
 Thanks for reading.
+
 -Chris
 
 P.S. Oh, the code is ARC-compatible.  I should probably mention that.
